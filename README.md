@@ -7,7 +7,7 @@ data cleaning, technical indicators, forecasting models, and backtesting strateg
 ---
 
 #  1. Data Cleaning & Preprocessing  
-_Notebook: `1_data_cleaning.ipynb`_
+_Notebook: `01_data_cleaning.ipynb`_
 
 This notebook performs:
 
@@ -22,7 +22,7 @@ This notebook performs:
 ---
 
 #  2. Technical Indicators  
-_Notebook: `2_technical_indicators.ipynb`_
+_Notebook: `02_technical_indicators.ipynb`_
 
 Technical indicators calculated:
 
@@ -37,7 +37,7 @@ These indicators serve as features for trading signals and strategy design.
 ---
 
 #  3. ARIMA Forecasting  
-_Notebook: `3_arima_forecast.ipynb`_
+_Notebook: `03_Prediction_models.ipynb`_
 
 This notebook:
 
@@ -56,7 +56,7 @@ This provides a baseline statistical forecast for financial time series.
 ---
 
 #  4. Backtesting Trading Strategies  
-_Notebook: `4_backtesting_strategies.ipynb`_
+_Notebook: `Backtesting_4.ipynb`_
 
 Strategies implemented:
 
