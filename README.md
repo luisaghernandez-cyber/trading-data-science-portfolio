@@ -1,5 +1,4 @@
-# trading-data-science-portfolio
-A beginner-friendly data science portfolio focused on Bitcoin market data. Includes data cleaning, exploratory analysis, technical indicators, visualizations, and simple machine learning models using Python.
+
 #  Trading Data Science Portfolio  
 A complete end-to-end data science workflow applied to trading:  
 data cleaning, technical indicators, forecasting models, and backtesting strategies.
